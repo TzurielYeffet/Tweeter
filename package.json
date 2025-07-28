@@ -1,0 +1,20 @@
+{
+  "name": "tweeterdemo",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "A demo for X (aka Tweeter app)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TzurielYeffet/Tweeter.git"
+  },
+  "author": "Tzuriel Yeffet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TzurielYeffet/Tweeter/issues"
+  },
+  "homepage": "https://github.com/TzurielYeffet/Tweeter#readme"
+}
