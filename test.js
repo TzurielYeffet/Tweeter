@@ -1,7 +1,10 @@
+
+
 import Tweeter from "./model.js";
 import Renderer from "./render.js";
 const tweeter = new Tweeter();
 const render= new Renderer();
+/*
 // Test adding a post
 tweeter.addPost("This is my own post!");
 console.log(tweeter.getPosts());
@@ -22,7 +25,7 @@ console.log(tweeter.getPosts());
 // Test removing comments
 tweeter.removeComment("p2", "c6");
 console.log(tweeter.getPosts());
-
+*/
 render.renderPosts([
       {
         text: "First post!",
